@@ -2,7 +2,7 @@
 I’m Wu Shaolin, a web development engineer😃
 
 - 🔭 I’m currently working on Tencent.
-- 🌱 I’m currently learning TS and go.
+- 🌱 I’m currently learning Python and go.
 - 👯 I’m looking to collaborate on how to earn money.😊
 - 🤔 I’m looking for help with how to get better.
 - 💬 Ask me about JavaScript.
